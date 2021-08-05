@@ -5,21 +5,12 @@
   <meta name="generator" content="pandoc">
   <meta name="author" content="Jieun K">
   <meta name="dcterms.date" content="2021-07-17">
-  <title>Data Analytics in Practice</title>
+  <!--<title>Data Analytics in Practice</title> -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="./revealjs/dist/reset.css">
   <link rel="stylesheet" href="./revealjs/dist/reveal.css">
-  <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-  </style>
   <link rel="stylesheet" href="./revealjs/dist/theme/black.css" id="theme">
 </head>
 <body>
@@ -27,7 +18,6 @@
     <div class="slides">      
       <section id="title-slide">
         <h1 class="title"><span style="color: lightseagreen;">Data Analytics</span> in Practice</h1>
-        <h3><p class="subtitle"><span style="color: gold;">Couse Project</span></p></h3>        
         <p class="author">Jieun K</p>
         <p class="date">August 4, 2021</p>
       </section>
@@ -262,22 +252,6 @@
         </section>
       </section>
       <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li><span style="color: lightskyblue;">Dataset</span> </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          <!-- <li>Conclusion</li> -->
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
       <!-- SLIDE: dataset -->
       <section class="slide level1">
         <!-- <section id="dataset" class="title-slide slide level2">
@@ -306,21 +280,6 @@
           <li>전월세구분 | 전용면적(㎡) | 층 | 건축년도</li>
           <li>계약년월 | 계약일</li>
           <li>보증금(만원) | 월세(만원)</li>
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li><span style="color: lightskyblue;">Pre-processing</span></li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
           </ul>
         </section>
       </section>
@@ -368,21 +327,6 @@
           </ul>
         </section>
       </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li><span style="color: lightskyblue;">EDA</span></li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          </ul>
-        </section>
-      </section>      
       <!-- ============================================================== -->
       <!-- SLIDE: 2. EDA -->
       <section class="slide level1">
@@ -435,21 +379,6 @@
         <section class="slide level2">
           <img src="./img/step2_10_df_mon.corr().png" alt="Data Distribution by Key Feature"/>
           <div>Feature Correlation</div>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li><span style="color: lightskyblue;">Feature Engineering</span></li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          </ul>
         </section>
       </section>
       <!-- ============================================================== -->
@@ -517,21 +446,6 @@
         </section>
       </section> <!-- END OF FEATURE ENGINEERING -->
       <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li><span style="color: lightskyblue;">Model Fitting</span></li>
-          <li>Prediction and Evaluation</li>
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
       <!-- SLIDE: 4. Modeling -->
       <section class="slide level1">
         <section id="modeling" class="title-slide slide level2">
@@ -577,21 +491,6 @@
           <div> <span style="color: gold;"> <code>district</code> </span> fixed effects</div>
         </section>
       </section> <!-- END OF Modeling -->
-      <!-- ============================================================== -->
-      <!-- SLIDE: section 7-->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li><span style="color: lightskyblue;">Prediction and Evaluation</span></li>
-          </ul>
-        </section>
-      </section>
       <section class="slide level1">
         <section id="evaluation" class="title-slide slide level2">
           <h3>5. Prediction and Evaluation</h3>
@@ -613,59 +512,7 @@
           <div> Data size: approx. <span style="color: lightcoral;">10% of train-set </span></div>
         </section>
       </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: section -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>          
-          </ul>
-          <hr>
-          👇 &nbsp; 👇
-          <h3>👉 <span style="color: lightskyblue;">Presentation has come to</span> 👉 </h3>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: to be continued -->
-      <section id="end" class="title-slide slide level1">
-        <h1>The End</h1>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: thank you -->
-      <section id="thank-you" class="title-slide slide level1">
-        <h1>Thank You</h1>
-      </section>
     </div> <!-- end of slides -->
   </div> <!-- end of reveal div -->
-  
-  <script src="./revealjs/dist/reveal.js"></script>
-
-  // reveal.js plugins
-  <script src="./revealjs/plugin/notes/notes.js"></script>
-  <script src="./revealjs/plugin/search/search.js"></script>
-  <script src="./revealjs/plugin/zoom/zoom.js"></script>
-
-  <script>
-    // Full list of configuration options available at:
-    // https://revealjs.com/config/
-    Reveal.initialize({
-    
-      // Push each slide change to the browser history
-      history: true,
-
-      // reveal.js plugins
-      plugins: [
-        RevealNotes,
-        RevealSearch,
-        RevealZoom
-      ]
-    });
-  </script>
 </body>
 </html>
