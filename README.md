@@ -24,7 +24,7 @@
       </section>
       <!-- SLIDE: Subtitle -->
       <section id="eda-feature-engineering-and-regression-modelling-with-real-estate-data" class="title-slide slide level1">
-        <h2><span style="color: lightgreen;">EDA</span>, <span style="color: lightpink;">Feature Engineering</span> , and <span style="color: lightskyblue;">Regression Modelling</span> with <span style="color: burlywood;">Real Estate Data</span> </h2>
+        <h2><span style="color: lightgreen;">EDA</span>, <span style="color: lightpink;">Feature Engineering</span> , and <span style="color: lightskyblue;">Regression Modelling</span> with <span style="color: burlywood;">🇰🇷 Real Estate Data</span> </h2>
       </section>
       <!-- ============================================================== -->
       <!-- SLIDE: abstract -->      
