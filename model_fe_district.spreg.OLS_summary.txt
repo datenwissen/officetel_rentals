@@ -1,0 +1,70 @@
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES - REGIMES
+---------------------------------------------------
+Data set            :     unknown
+Weights matrix      :        None
+Dependent Variable  : pay_monthly                Number of Observations:      284284
+Mean dependent var  :      3.8409                Number of Variables   :          29
+S.D. dependent var  :      3.7588                Degrees of Freedom    :      284255
+R-squared           :      0.7594
+Adjusted R-squared  :      0.7594
+Sum squared residual:  966446.987                F-statistic           :  32038.4084
+Sigma-square        :       3.400                Prob(F-statistic)     :           0
+S.E. of regression  :       1.844                Log likelihood        : -577313.965
+Sigma-square ML     :       3.400                Akaike info criterion : 1154685.930
+S.E of regression ML:      1.8438                Schwarz criterion     : 1154992.104
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+        강남구_CONSTANT    -437.5362454       2.5311389    -172.8614127       0.0000000
+        강동구_CONSTANT    -439.1708802       2.5297805    -173.6003900       0.0000000
+        강북구_CONSTANT    -440.3504398       2.5305318    -174.0149807       0.0000000
+        강서구_CONSTANT    -439.3649745       2.5317541    -173.5417224       0.0000000
+        관악구_CONSTANT    -438.0057348       2.5269526    -173.3335807       0.0000000
+        광진구_CONSTANT    -438.1668723       2.5302069    -173.1743264       0.0000000
+        구로구_CONSTANT    -438.9492255       2.5296556    -173.5213384       0.0000000
+        금천구_CONSTANT    -439.2691535       2.5316529    -173.5108135       0.0000000
+        노원구_CONSTANT    -439.7328460       2.5283467    -173.9211018       0.0000000
+        도봉구_CONSTANT    -439.8643533       2.5307003    -173.8113188       0.0000000
+       동대문구_CONSTANT    -439.2117726       2.5306161    -173.5592234       0.0000000
+        동작구_CONSTANT    -438.0281397       2.5297620    -173.1499407       0.0000000
+        마포구_CONSTANT    -438.2217572       2.5303998    -173.1828133       0.0000000
+       서대문구_CONSTANT    -437.8039613       2.5291063    -173.1061924       0.0000000
+        서초구_CONSTANT    -437.5475273       2.5298803    -172.9518701       0.0000000
+        성동구_CONSTANT    -438.6837861       2.5293217    -173.4392994       0.0000000
+        성북구_CONSTANT    -439.0055332       2.5298953    -173.5271516       0.0000000
+        송파구_CONSTANT    -438.3684334       2.5319668    -173.1335658       0.0000000
+        양천구_CONSTANT    -436.9459836       2.5281654    -172.8312456       0.0000000
+       영등포구_CONSTANT    -438.4073651       2.5300468    -173.2803395       0.0000000
+        용산구_CONSTANT    -437.6389195       2.5297343    -172.9979801       0.0000000
+        은평구_CONSTANT    -439.5804367       2.5314418    -173.6482486       0.0000000
+        종로구_CONSTANT    -438.3019875       2.5292354    -173.2942614       0.0000000
+         중구_CONSTANT    -438.2947819       2.5313248    -173.1483771       0.0000000
+        중랑구_CONSTANT    -439.4750457       2.5308388    -173.6479796       0.0000000
+   _Global_unit_size    -107.4689844       0.3096728    -347.0404364       0.0000000
+     _Global_deposit      -0.0748672       0.0000806    -928.5754661       0.0000000
+       _Global_floor       0.3949799       0.0043541      90.7154793       0.0000000
+    _Global_yr_built      10.0822535       0.0566053     178.1149034       0.0000000
+------------------------------------------------------------------------------------
+Regimes variable: unknown
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         2223.129
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2     3706569.218           0.0000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test               28      332089.322           0.0000
+Koenker-Bassett test             28       34284.194           0.0000
+
+REGIMES DIAGNOSTICS - CHOW TEST
+                 VARIABLE        DF        VALUE           PROB
+                 CONSTANT        24       39757.540           0.0000
+              Global test        24       39757.540           0.0000
+================================ END OF REPORT =====================================

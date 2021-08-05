@@ -1,0 +1,3 @@
+[submodule "officetel_rentals"]
+	path = officetel_rentals
+	url = https://github.com/datenwissen/officetel_rentals.git
