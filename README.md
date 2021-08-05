@@ -643,29 +643,5 @@
       </section>
     </div> <!-- end of slides -->
   </div> <!-- end of reveal div -->
-  
-  <script src="./revealjs/dist/reveal.js"></script>
-
-  // reveal.js plugins
-  <script src="./revealjs/plugin/notes/notes.js"></script>
-  <script src="./revealjs/plugin/search/search.js"></script>
-  <script src="./revealjs/plugin/zoom/zoom.js"></script>
-
-  <script>
-    // Full list of configuration options available at:
-    // https://revealjs.com/config/
-    Reveal.initialize({
-    
-      // Push each slide change to the browser history
-      history: true,
-
-      // reveal.js plugins
-      plugins: [
-        RevealNotes,
-        RevealSearch,
-        RevealZoom
-      ]
-    });
-  </script>
 </body>
 </html>
