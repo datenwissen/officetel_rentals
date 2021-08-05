@@ -253,22 +253,6 @@
         </section>
       </section>
       <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li><span style="color: lightskyblue;">Dataset</span> </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          <!-- <li>Conclusion</li> -->
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
       <!-- SLIDE: dataset -->
       <section class="slide level1">
         <!-- <section id="dataset" class="title-slide slide level2">
@@ -297,21 +281,6 @@
           <li>전월세구분 | 전용면적(㎡) | 층 | 건축년도</li>
           <li>계약년월 | 계약일</li>
           <li>보증금(만원) | 월세(만원)</li>
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li><span style="color: lightskyblue;">Pre-processing</span></li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
           </ul>
         </section>
       </section>
@@ -359,21 +328,6 @@
           </ul>
         </section>
       </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li><span style="color: lightskyblue;">EDA</span></li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          </ul>
-        </section>
-      </section>      
       <!-- ============================================================== -->
       <!-- SLIDE: 2. EDA -->
       <section class="slide level1">
@@ -426,21 +380,6 @@
         <section class="slide level2">
           <img src="./img/step2_10_df_mon.corr().png" alt="Data Distribution by Key Feature"/>
           <div>Feature Correlation</div>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li><span style="color: lightskyblue;">Feature Engineering</span></li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>
-          </ul>
         </section>
       </section>
       <!-- ============================================================== -->
@@ -508,21 +447,6 @@
         </section>
       </section> <!-- END OF FEATURE ENGINEERING -->
       <!-- ============================================================== -->
-      <!-- SLIDE: sections -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li><span style="color: lightskyblue;">Model Fitting</span></li>
-          <li>Prediction and Evaluation</li>
-          </ul>
-        </section>
-      </section>
-      <!-- ============================================================== -->
       <!-- SLIDE: 4. Modeling -->
       <section class="slide level1">
         <section id="modeling" class="title-slide slide level2">
@@ -568,21 +492,6 @@
           <div> <span style="color: gold;"> <code>district</code> </span> fixed effects</div>
         </section>
       </section> <!-- END OF Modeling -->
-      <!-- ============================================================== -->
-      <!-- SLIDE: section 7-->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li><span style="color: lightskyblue;">Prediction and Evaluation</span></li>
-          </ul>
-        </section>
-      </section>
       <section class="slide level1">
         <section id="evaluation" class="title-slide slide level2">
           <h3>5. Prediction and Evaluation</h3>
@@ -602,24 +511,6 @@
           <h4>Evaluation Metrics</h4>
           <img src="./img/step5_02_regression_eval_metrics_true_minus_pred.png" alt="evaluation metrics"/>
           <div> Data size: approx. <span style="color: lightcoral;">10% of train-set </span></div>
-        </section>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: section -->
-      <section class="slide level1">
-        <section class="slide level2">    
-          <ul>
-          <li>Introduction</li>
-          <li>Dataset </li>
-          <li>Pre-processing</li>
-          <li>EDA</li>
-          <li>Feature Engineering</li>
-          <li>Model Fitting</li>
-          <li>Prediction and Evaluation</li>          
-          </ul>
-          <hr>
-          👇 &nbsp; 👇
-          <h3>👉 <span style="color: lightskyblue;">Presentation has come to</span> 👉 </h3>
         </section>
       </section>
       <!-- ============================================================== -->
