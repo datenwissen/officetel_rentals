@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -38,8 +37,8 @@
         <p>- Demonstrate a commonly used pipeline ➡️</p>
         </section>
         <section class="slide level2">      
-        <p>Preprocessing ⇒ <span style="color: lightskyblue;">
-         EDA </span> ⇒ <span style="color: lightskyblue;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
+        <p>Preprocessing ⇒ <span style="color: ;">
+         EDA </span> ⇒ <span style="color: ;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
         </section>        
         <!-- 
         <section id="pose-a-question" class="slide level2">
