@@ -33,10 +33,10 @@
           <h3>What is the <span style="color: lightskyblue;">project</span> about ❓</h3>
         </section>  
         <section class="slide level2">    
-        <p>- Practice data science with real-estate data</p>
+        <p>- Demonstrate data science with real-estate data</p>
         </section>
         <section class="slide level2">      
-        <p>- Demonstrate a commonly used pipeline ➡️</p>
+        <p>- Using a commonly used pipeline ➡️</p>
         </section>
         <section class="slide level2">      
         <p>Preprocessing ⇒ <span style="color: ;">
