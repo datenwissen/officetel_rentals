@@ -512,16 +512,6 @@
           <div> Data size: approx. <span style="color: lightcoral;">10% of train-set </span></div>
         </section>
       </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: to be continued -->
-      <section id="end" class="title-slide slide level1">
-        <h1>The End</h1>
-      </section>
-      <!-- ============================================================== -->
-      <!-- SLIDE: thank you -->
-      <section id="thank-you" class="title-slide slide level1">
-        <h1>Thank You</h1>
-      </section>
     </div> <!-- end of slides -->
   </div> <!-- end of reveal div -->
 </body>
