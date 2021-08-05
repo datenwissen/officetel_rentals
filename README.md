@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="./revealjs/dist/reveal.css">
   <link rel="stylesheet" href="./revealjs/dist/theme/black.css" id="theme">
 </head>
-<body style="background-color:black;">
+<body style="background-color:black;color:white;">
   <div class="reveal">
     <div class="slides">      
       <section id="title-slide">
