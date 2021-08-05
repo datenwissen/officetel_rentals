@@ -18,7 +18,6 @@
     <div class="slides">      
       <section id="title-slide">
         <h1 class="title"><span style="color: lightseagreen;">Data Analytics</span> in Practice</h1>
-        <h3><p class="subtitle"><span style="color: gold;">Couse Project</span></p></h3>        
         <p class="author">Jieun K</p>
         <p class="date">August 4, 2021</p>
       </section>
