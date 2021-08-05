@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -13,7 +12,7 @@
   <link rel="stylesheet" href="./revealjs/dist/reveal.css">
   <link rel="stylesheet" href="./revealjs/dist/theme/black.css" id="theme">
 </head>
-<body>
+<body style="background-color:black;color:white;">
   <div class="reveal">
     <div class="slides">      
       <section id="title-slide">
@@ -32,14 +31,14 @@
           <h3>What is the <span style="color: lightskyblue;">project</span> about ❓</h3>
         </section>  
         <section class="slide level2">    
-        <p>Practice data science with real-estate data</p>
+        <p>- Practice data science with real-estate data</p>
         </section>
         <section class="slide level2">      
-        <p>Demonstrate a commonly used pipeline ➡️</p>
+        <p>- Demonstrate a commonly used pipeline ➡️</p>
         </section>
         <section class="slide level2">      
-        <p>Preprocessing ⇒ <span style="color: gainsboro;">
-         EDA </span> ⇒ <span style="color: gainsboro;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
+        <p>Preprocessing ⇒ <span style="color: ;">
+         EDA </span> ⇒ <span style="color: ;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
         </section>        
         <!-- 
         <section id="pose-a-question" class="slide level2">
