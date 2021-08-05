@@ -295,8 +295,8 @@
         </section>        
         <section class="slide level2">    
           <ul>
-          <li><p>Needs removal before <code>pandas.read_csv()</code></p></li>
-          <li><p>Done manually ✔️ (or programmatically)</p></li>
+          <li><p>Can be removed programmatically</p></li>
+          <li><p><code><span style="color: turquoise;">pandas.read_csv</span>(<span style="color: lightgreen;">skiprows=15</span>)</code></p></li>
           </ul>
         </section>        
         <section class="slide level2">    
@@ -321,7 +321,7 @@
           </ul>
         </section>
         <section class="slide level2">
-          <h4>Fill in <span style="color: lightskyblue;">`year built`</span> </h4>
+          <h4>Fill in <span style="color: lightskyblue;"><code>yr_built</code></span> </h4>
           <ul>
           <li>with the district <span style="color: lightsalmon;">median</span></li>
           </ul>
