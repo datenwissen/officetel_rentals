@@ -4,7 +4,7 @@
   <meta name="generator" content="pandoc">
   <meta name="author" content="Jieun K">
   <meta name="dcterms.date" content="2021-07-17">
-  <!--<title>Data Analytics in Practice</title> -->
+  <!--<title>Data Science in Practice</title> -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -18,7 +18,7 @@
       <section id="title-slide">
         <h2>Click <a href="https://datenwissen.github.io/officetel_rentals/">here</a>  to start the slide deck</h2>
         <hr>
-        <h1 class="title"><span style="color: lightseagreen;">Data Analytics</span> in Action</h1>
+        <h1 class="title"><span style="color: lightseagreen;">Data Science</span> in Action</h1>
         <p class="author">Jieun K</p>
         <p class="date">August 4, 2021</p>
       </section>
