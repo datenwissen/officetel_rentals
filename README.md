@@ -38,8 +38,8 @@
         <p>- Demonstrate a commonly used pipeline ➡️</p>
         </section>
         <section class="slide level2">      
-        <p>Preprocessing ⇒ <span style="color: gainsboro;">
-         EDA </span> ⇒ <span style="color: gainsboro;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
+        <p>Preprocessing ⇒ <span style="color: lightyellow;">
+         EDA </span> ⇒ <span style="color: lightyellow;">Feature Engineering</span> ⇔ Modelling ⇒ Performance Evaluation</p>
         </section>        
         <!-- 
         <section id="pose-a-question" class="slide level2">
