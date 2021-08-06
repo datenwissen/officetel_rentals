@@ -16,9 +16,7 @@
   <div class="reveal">
     <div class="slides">      
       <section id="title-slide">
-        <h2>Slide deck at https://datenwissen.github.io/officetel_rentals/</h2>
-        <hr>
-        <h2><a href="https://github.com/datenwissen/officetel_rentals/blob/7c24e0f4394b02ff176e88dd7dd4862f0713fa9d/project%20_code.py">Project code</a></h2>
+        <h2><a href="https://datenwissen.github.io/officetel_rentals/">Slide deck</a> | <a href="https://github.com/datenwissen/officetel_rentals/blob/7c24e0f4394b02ff176e88dd7dd4862f0713fa9d/project%20_code.py">Project code</a></h2>
         <hr>
         <h1 class="title"><span style="color: lightseagreen;">Data Science</span> in Action</h1>
         <p class="author">Jieun K</p>
