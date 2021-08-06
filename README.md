@@ -16,7 +16,7 @@
   <div class="reveal">
     <div class="slides">      
       <section id="title-slide">
-        <h2>Click <a href="https://datenwissen.github.io/officetel_rentals/">here</a>  to start the slide deck</h2>
+        <h2>Slide deck at https://datenwissen.github.io/officetel_rentals/</h2>
         <hr>
         <h1 class="title"><span style="color: lightseagreen;">Data Science</span> in Action</h1>
         <p class="author">Jieun K</p>
