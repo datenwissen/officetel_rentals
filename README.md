@@ -18,7 +18,7 @@
       <section id="title-slide">
         <h2>Slide deck at https://datenwissen.github.io/officetel_rentals/</h2>
         <hr>
-        <h2>Project code at project _code.py</h2>
+        <h2>Project code at https://github.com/datenwissen/officetel_rentals/blob/7c24e0f4394b02ff176e88dd7dd4862f0713fa9d/project%20_code.py</h2>
         <hr>
         <h1 class="title"><span style="color: lightseagreen;">Data Science</span> in Action</h1>
         <p class="author">Jieun K</p>
